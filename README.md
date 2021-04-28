@@ -35,3 +35,10 @@ Retrofit - Utilicado para Integração e consumo da API: https://developers.them
 Coroutines - Para Processamento Assíncrono.
 
 Picasso - Para exibição das Imagens.
+
+### Arquitetura
+
+MVVM
+
+### Linguagem Kotlin
+
