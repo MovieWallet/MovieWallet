@@ -27,3 +27,11 @@
 ### Tela de Cadastro
 
 ![Tela de Cadastro](https://i.imgur.com/9PIYVHpm.jpg)
+
+### Principais Bibliotecas Utilizadas
+
+Retrofit - Utilicado para Integração e consumo da API: https://developers.themoviedb.org/3/getting-started/introduction
+
+Coroutines - Para Processamento Assíncrono.
+
+Picasso - Para exibição das Imagens.
