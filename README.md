@@ -30,7 +30,7 @@
 
 ### Principais Bibliotecas Utilizadas
 
-Retrofit - Utilicado para Integração e consumo da API: https://developers.themoviedb.org/3/getting-started/introduction
+Retrofit - Utilizada para Integração e consumo da API: https://developers.themoviedb.org/3/getting-started/introduction
 
 Coroutines - Para Processamento Assíncrono.
 
